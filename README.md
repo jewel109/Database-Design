@@ -17,7 +17,7 @@
 >Attribute is anything we store in database.
 >>such as User table has username and email . These are the attribute . Attribute may be values or types
 #
-# Table
+# Table 1
 
 ________________
 | Syntax      | Description |
