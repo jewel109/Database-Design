@@ -18,19 +18,19 @@
 >>such as User table has username and email . These are the attribute . Attribute may be values or types
 #5.What is rdbms?
 
-#6.What is SQL?
+# 6.What is SQL?
 
-#7.What is DDL & DML?
+# 7.What is DDL & DML?
 
-#8.What is Database Design? 
+# 8.What is Database Design? 
 
-#9.What is Data Integrity?
+# 9.What is Data Integrity?
 
-#10.What are the section of Database Design?
+# 10.What are the section of Database Design?
 
-#11.What are the type of Data Integrity?
+# 11.What are the type of Data Integrity?
 
-#12.What is atomic values?
+# 12.What is atomic values?
 
 
 # Table 1
