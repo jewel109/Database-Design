@@ -32,6 +32,14 @@
 
 # 12.What is atomic values?
 
+# Flow Chart 
+```mermaid
+  graph TD;
+      A-->B;
+      A-->C;
+      B-->D;
+      C-->D;
+```
 
 # Table 1
 
