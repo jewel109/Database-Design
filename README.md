@@ -31,6 +31,7 @@
 # 11.What are the type of Data Integrity?
 
 # 12.What is atomic values?
+# What is joinজইন?
 
 # Flow Chart 
 ```mermaid
