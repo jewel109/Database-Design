@@ -25,6 +25,7 @@
 # 8.What is Database Design? 
 
 # 9.What is Data Integrity?
+>The accuracy and the consistency between table
 
 # 10.What are the section of Database Design?
 
