@@ -32,7 +32,7 @@
 # 11.What are the type of Data Integrity?
 
 # 12.What is atomic values?
-# What is joinজইন?
+# What is join?
 
 # Flow Chart 
 ```mermaid
