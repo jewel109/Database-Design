@@ -28,6 +28,7 @@
 >The accuracy and the consistency between table
 
 # 10.What are the section of Database Design?
+>domain integrity 
 
 # 11.What are the type of Data Integrity?
 
