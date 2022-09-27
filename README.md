@@ -35,6 +35,7 @@
 # 12.What is atomic values?
 # What is join?
 # Type of join
+# Inner Join
 
 # Flow Chart 
 ```mermaid
