@@ -36,6 +36,7 @@
 # What is join?
 # Type of join
 # Inner Join
+# entity relationship 
 
 # Flow Chart 
 ```mermaid
