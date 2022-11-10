@@ -37,6 +37,7 @@
 # Type of join
 # Inner Join
 # outer join
+Outer joins are joins that return matched values and unmatched values from either or both tables
 # right join
 # left join
 # entity relationship 
