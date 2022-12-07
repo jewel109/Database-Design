@@ -1,12 +1,49 @@
 # Database Management System Learning from a genious guy named Caleb Curry
+#### [Introduction (00:00)](#Introduction)
 
-##### What is database ?
+##### Introduction
   >The software that store data is called Database .
+
+##### What is database?
 
 ##### What is relational database?
  >The database which works on the relational model of data.It contains tables with rows and columns .
  >>example:
  >>>we can have User table with column of username, password, email etc.
+
+##### RDBMS
+##### Introduction To SQL
+##### Naming Convensions
+##### What is Database Design?
+##### Data Integrity
+##### Database Terms
+##### More Database Terms
+##### Atomic values
+##### Relationships
+##### One-to-One Relationships
+##### One-to-Many Relationships
+##### Many-to-Many Relationships
+##### Designing One-to-One Relationships
+##### Designing One-to-Many Relationships
+##### Parent Tables and Child Tables
+##### Designing Many-to-Many Relationships
+##### Summary of Relationships
+##### Introduction to Keys
+##### Primary Key Index
+##### 
+##### 
+##### 
+##### 
+##### 
+##### 
+##### 
+##### 
+##### 
+##### 
+##### 
+##### 
+##### 
+##### 
 
 ##### What is entity?
 >Entity is anything we store data about in database.
