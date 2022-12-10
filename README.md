@@ -45,7 +45,7 @@
 ##### 
 ##### 
 
-##### What is entity?
+##### What is entity in database design?
 >Entity is anything we store data about in database.
 >example:
 >>User table : User is an entity.
