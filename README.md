@@ -71,7 +71,7 @@
 ##### What are the type of Data Integrity?
 
 ##### What is atomic values?
-##### What is join?
+
 ##### Type of join
 
 ##### Inner Join
