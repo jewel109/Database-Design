@@ -58,7 +58,7 @@
 ##### What is SQL?
 ##### What is naming convention?
 
-##### What is DDL & DML?
+##### What is DDL & DML
 
 ##### What is Database Design? 
 
