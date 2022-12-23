@@ -60,7 +60,7 @@
 
 ##### What is DDL & DML
 
-##### What is Database Design? 
+##### What is Database Design
 
 ##### What is Data Integrity?
 >The accuracy and the consistency between table
